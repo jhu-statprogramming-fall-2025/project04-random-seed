@@ -3,7 +3,7 @@
 
 **Team members**: Junwei (Ivy) Sun, Liana Hill, Hanbo Dong, Kedi Le
 
-**Dashboard**: https://team-randomseed.shinyapps.io/SSS_dashboard/
+**Shiny App**: https://team-randomseed.shinyapps.io/SSS_dashboard/
 
 ## Overview
 Planning trips to the U.S. National Parks is surprisingly difficult for travelers due to fragmented information across multiple websites and the lack of systematic comparison tools. In this project, we developed an interactive R Shiny application that combines multiple domains of information to enable intuitive exploration and comparison across parks. The app further supports travelers by helping them identify parks that best align with their travel needs and preferences.
