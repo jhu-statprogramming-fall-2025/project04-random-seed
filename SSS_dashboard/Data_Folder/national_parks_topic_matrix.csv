@@ -1,0 +1,60 @@
+parkCode,fullName,Photography,Colonization and Settlement,Lighthouses,Schools and Education,Animals,Fish,Forests and Woodlands,Geology,Lakes,Mountains,Night Sky,Astronomy,Rock Landscapes and Features,Trails,Fossils and Paleontology,Scenic Views,Unique Species,Endangered,Wilderness,Ruins,Canyons and Canyonlands,Hot Springs,River and Riparian,Ships and Shipwrecks,Explorers and Expeditions,Glaciers,Volcanoes,Waterfalls,Architecture and Building,Freshwater Springs
+acad,Acadia National Park,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+arch,Arches National Park,0,0,0,0,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badl,Badlands National Park,0,1,0,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+bibe,Big Bend National Park,0,0,0,0,1,1,0,1,0,1,1,0,0,1,1,1,1,1,0,1,1,1,1,0,0,0,0,0,0,0
+bisc,Biscayne National Park,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+blca,Black Canyon Of The Gunnison National Park,0,0,0,0,1,0,0,1,0,1,1,1,1,1,0,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0
+brca,Bryce Canyon National Park,0,0,0,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+cany,Canyonlands National Park,0,0,0,0,1,1,0,1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+care,Capitol Reef National Park,1,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,0,0
+cave,Carlsbad Caverns National Park,0,0,0,0,1,1,0,1,0,0,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+chis,Channel Islands National Park,0,1,1,0,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,1,1,1,0,0,0,1,0
+cong,Congaree National Park,1,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+crla,Crater Lake National Park,1,0,0,0,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,1,1,1,0
+cuva,Cuyahoga Valley National Park,0,1,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+deva,Death Valley National Park,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+dena,Denali National Park & Preserve,0,0,0,0,1,0,1,1,1,1,1,0,0,1,1,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0
+drto,Dry Tortugas National Park,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0
+ever,Everglades National Park,0,1,0,1,1,1,0,1,0,0,1,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1,0
+gaar,Gates Of The Arctic National Park & Preserve,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0
+jeff,Gateway Arch National Park,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+glba,Glacier Bay National Park & Preserve,0,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0
+glac,Glacier National Park,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,0,0,0,1,0,0,1,0,1,1,0
+grca,Grand Canyon National Park,1,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,0,0,0,1,1
+grte,Grand Teton National Park,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,0,1,0
+grba,Great Basin National Park,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+grsa,Great Sand Dunes National Park & Preserve,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,0,0,1,0,1,0,1,0,0,1
+gumo,Guadalupe Mountains National Park,0,1,0,0,1,0,0,1,0,1,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+hale,Haleakalā National Park,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+havo,Hawaiʻi Volcanoes National Park,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+hosp,Hot Springs National Park,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,1
+indu,Indiana Dunes National Park,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+isro,Isle Royale National Park,0,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+jotr,Joshua Tree National Park,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1
+katm,Katmai National Park & Preserve,0,0,0,0,1,1,0,1,1,1,1,0,0,1,0,1,0,0,1,0,0,0,0,0,1,1,1,1,1,0
+kefj,Kenai Fjords National Park,0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,0,0,0,0,0,0,1,0,1,0,0
+kova,Kobuk Valley National Park,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+lacl,Lake Clark National Park & Preserve,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,1,0,0,1,0,0,0,1,0,1,1,1,1,0,0
+lavo,Lassen Volcanic National Park,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,0,1,0,0,1,0,1,1,0,1
+maca,Mammoth Cave National Park,0,0,0,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+meve,Mesa Verde National Park,0,0,0,1,1,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mora,Mount Rainier National Park,0,0,0,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,0,0,1,0,0,1,1,1,1,0
+neri,New River Gorge National Park & Preserve,0,0,0,1,1,1,1,1,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+noca,North Cascades National Park,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+olym,Olympic National Park,0,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,0,0,1,1,1,1,1,0,1,0,0
+pefo,Petrified Forest National Park,1,0,0,0,1,0,0,1,0,0,1,0,1,1,1,1,0,0,1,1,0,0,1,0,1,0,0,0,1,0
+pinn,Pinnacles National Park,0,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,1,1,1,1
+romo,Rocky Mountain National Park,0,0,0,0,1,1,1,1,1,0,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+sagu,Saguaro National Park,0,0,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+seki,Sequoia & Kings Canyon National Parks,1,0,0,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0
+shen,Shenandoah National Park,0,0,0,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0
+thro,Theodore Roosevelt National Park,0,1,0,0,1,1,0,1,0,0,1,1,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+viis,Virgin Islands National Park,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0
+voya,Voyageurs National Park,0,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+whsa,White Sands National Park,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+wica,Wind Cave National Park,0,0,0,0,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+wrst,Wrangell - St Elias National Park & Preserve,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0
+yell,Yellowstone National Park,1,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+yose,Yosemite National Park,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,0,0,1,0,0,1,0,1,1,0
+zion,Zion National Park,0,0,0,0,1,1,0,1,0,0,1,0,1,1,1,0,1,0,1,0,1,0,1,0,0,0,0,0,1,0

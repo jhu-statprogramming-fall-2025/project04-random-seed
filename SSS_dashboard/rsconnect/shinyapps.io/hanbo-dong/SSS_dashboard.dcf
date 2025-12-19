@@ -1,0 +1,10 @@
+name: SSS_dashboard
+title: SSS_dashboard
+username: hanbo-dong
+account: hanbo-dong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16281544
+bundleId: 11306279
+url: https://team-randomseed.shinyapps.io/SSS_dashboard/
+version: 1
