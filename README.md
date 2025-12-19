@@ -16,4 +16,4 @@ Planning trips to the U.S. National Parks is surprisingly difficult for traveler
 
 **Recommendation System**: Develop a recommendation system that accounts for both user preferences and park popularity, allowing travelers to balance personal interests with popular destinations.
 
-**An App that Unifies Information**: Build an intuitive and user-friendly dashboard to visulize the results, enabling flexible and efficient exploration of national parks and providing informed travel decisions.
+**An App that Unifies Information**: Build an intuitive and user-friendly R Shiny app to visulize the results, enabling flexible and efficient exploration of national parks and providing informed travel decisions.
